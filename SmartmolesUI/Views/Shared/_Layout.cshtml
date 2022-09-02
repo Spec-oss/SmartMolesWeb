@@ -16,7 +16,7 @@
     <link href="css/plugin.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Poppins:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-    <link href="http://fonts.cdnfonts.com/css/montserrat" rel="stylesheet">
+    <link href="https://fonts.cdnfonts.com/css/montserrat" rel="stylesheet">
 
     <!-- template-style-->
     <link href="css/style.css" rel="stylesheet">
@@ -118,9 +118,8 @@
                     </ul>
                     <!-- mobile + desktop - sidebar menu- dark mode witch and button -->
                     <ul class="nav-list right-end-btn">
-                        <li class="hidemobile"><a data-bs-toggle="offcanvas" href="#offcanvasExample" class="btn-round- btn-br bg-btn2"><i class="fas fa-phone-alt"></i></a></li>
-                        <li class="hidedesktop darkmodeswitch"><div class="switch-wrapper"> <label class="switch" for="niwax"> <input type="checkbox" id="niwax" />  <span class="slider round"></span> </label> </div> </li>
-                        <li class="hidedesktop"><a data-bs-toggle="offcanvas" href="#offcanvasExample" class="btn-round- btn-br bg-btn2"><i class="fas fa-phone-alt"></i></a></li>
+                        <li class="hidemobile"><a data-bs-toggle="offcanvas" href="#offcanvasExample" class="btn-round- btn-br bg-btn3"><i class="fas fa-phone-alt"></i></a></li>
+                        <li class="hidedesktop"><a data-bs-toggle="offcanvas" href="#offcanvasExample" class="btn-round- btn-br bg-btn3"><i class="fas fa-phone-alt"></i></a></li>
                         <li class="navm- hidedesktop"> <a class="toggle" href="#"><span></span></a></li>
                     </ul>
                 </div>
@@ -202,45 +201,36 @@
                 <div class="btnclose"> <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button></div>
             </div>
             <div class="form-block sidebarform">
-                <h4>Request A Quote</h4>
+                <h4>Bizimle İletişime Geçin</h4>
                 <form id="contactForm" data-bs-toggle="validator" class="shake mt20">
                     <div class="row">
                         <div class="form-group col-sm-12">
-                            <input type="text" id="name" placeholder="Enter name" required data-error="Please fill Out">
+                            <input type="text" id="name" placeholder="Ad Soyad" required data-error="Lütfen bu alanı doldurun.">
                             <div class="help-block with-errors"></div>
                         </div>
                         <div class="form-group col-sm-12">
-                            <input type="email" id="email" placeholder="Enter email" required>
+                            <input type="email" id="email" placeholder="Email" required>
                             <div class="help-block with-errors"></div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="form-group col-sm-12">
-                            <input type="text" id="mobile" placeholder="Enter mobile" required data-error="Please fill Out">
-                            <div class="help-block with-errors"></div>
-                        </div>
-                        <div class="form-group col-sm-12">
-                            <select name="Dtype" id="Dtype" required>
-                                <option value="">Select Requirement</option>
-                                <option value="web">web</option>
-                                <option value="graphic">graphic</option>
-                                <option value="video">video</option>
-                            </select>
+                            <input type="text" id="mobile" placeholder="Telefon" required data-error="Please fill Out">
                             <div class="help-block with-errors"></div>
                         </div>
                     </div>
                     <div class="form-group">
-                        <textarea id="message" rows="5" placeholder="Enter your message" required></textarea>
+                        <textarea id="message" rows="8" placeholder="Mesajınız" required></textarea>
                         <div class="help-block with-errors"></div>
                     </div>
-                    <button type="submit" id="form-submit" class="btn lnk btn-main bg-btn">Submit <span class="circle"></span></button>
+                    <button type="submit" id="form-submit" class="btn lnk btn-main bg-btn3">Submit <span class="circle"></span></button>
                     <div id="msgSubmit" class="h3 text-center hidden"></div>
                     <div class="clearfix"></div>
                 </form>
             </div>
             <div class="getintouchblock mt30">
                 <h4>Get In Touch</h4>
-                <p class="mt10">Please fill out the form below if you have a plan or project in mind that you'd like to share with us.</p>
+                <p class="mt10">İletişim formundan bizimle iletişime geçebilirsiniz. Gönderdiğiniz formlar müşteri temsilcimiz tarafından incelendikten sonra en kısa süre zarfında tarafınıza dönüş sağlanacaktır.</p>
                 <div class="media mt15">
                     <div class="icondive"><img src="images/icons/call.svg" alt="icon"></div>
                     <div class="media-body getintouchinfo">
@@ -354,7 +344,7 @@
     <script src="js/bootstrap.bundle.min.js"></script>
     <script src="js/plugin.min.js"></script>
     <script src="js/preloader.js"></script>
-    <script src="js/dark-mode.js"></script>
+@*    <script src="js/dark-mode.js"></script>*@
     <!--common script file-->
     <script src="js/main.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
