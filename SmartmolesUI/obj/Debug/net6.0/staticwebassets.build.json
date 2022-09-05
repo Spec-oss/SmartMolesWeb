@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZEMY4Z43kYDrp6LqQMVCSqj3sv5AwW2Z15faPn9WoFs=",
+  "Hash": "g7g6JoPS7T1k2uPw/pT4JNouQd8hTqXpq0xgqNGoGUw=",
   "Source": "SmartmolesUI",
   "BasePath": "_content/SmartmolesUI",
   "Mode": "Default",
@@ -612,23 +612,6 @@
       "OriginalItemSpec": "wwwroot\\images\\about\\lead-contact.png"
     },
     {
-      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\about\\leadership.jpg",
-      "SourceId": "SmartmolesUI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
-      "BasePath": "_content/SmartmolesUI",
-      "RelativePath": "images/about/leadership.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\about\\leadership.jpg"
-    },
-    {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\about\\lead-pic.png",
       "SourceId": "SmartmolesUI",
       "SourceType": "Discovered",
@@ -644,6 +627,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\about\\lead-pic.png"
+    },
+    {
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\about\\leadership.jpg",
+      "SourceId": "SmartmolesUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
+      "BasePath": "_content/SmartmolesUI",
+      "RelativePath": "images/about/leadership.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\about\\leadership.jpg"
     },
     {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\about\\marketing-service.png",
@@ -865,6 +865,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\about\\vision.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\background.jfif",
+      "SourceId": "SmartmolesUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
+      "BasePath": "_content/SmartmolesUI",
+      "RelativePath": "images/background.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\background.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\backvideo.mp4",
+      "SourceId": "SmartmolesUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
+      "BasePath": "_content/SmartmolesUI",
+      "RelativePath": "images/backvideo.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\backvideo.mp4"
     },
     {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\banner\\1.jpg",
@@ -1819,23 +1853,6 @@
       "OriginalItemSpec": "wwwroot\\images\\client\\client-6.png"
     },
     {
-      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\client\\client-pic.jpg",
-      "SourceId": "SmartmolesUI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
-      "BasePath": "_content/SmartmolesUI",
-      "RelativePath": "images/client/client-pic.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\client\\client-pic.jpg"
-    },
-    {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\client\\client-pic-a.jpg",
       "SourceId": "SmartmolesUI",
       "SourceType": "Discovered",
@@ -1885,6 +1902,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\client\\client-pic-x.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\client\\client-pic.jpg",
+      "SourceId": "SmartmolesUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
+      "BasePath": "_content/SmartmolesUI",
+      "RelativePath": "images/client/client-pic.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\client\\client-pic.jpg"
     },
     {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\client\\clients-1.png",
@@ -3944,23 +3978,6 @@
       "OriginalItemSpec": "wwwroot\\images\\flags\\ga.svg"
     },
     {
-      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\flags\\gb.svg",
-      "SourceId": "SmartmolesUI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
-      "BasePath": "_content/SmartmolesUI",
-      "RelativePath": "images/flags/gb.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\flags\\gb.svg"
-    },
-    {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\flags\\gb-eng.svg",
       "SourceId": "SmartmolesUI",
       "SourceType": "Discovered",
@@ -4027,6 +4044,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\flags\\gb-wls.svg"
+    },
+    {
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\flags\\gb.svg",
+      "SourceId": "SmartmolesUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
+      "BasePath": "_content/SmartmolesUI",
+      "RelativePath": "images/flags/gb.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\flags\\gb.svg"
     },
     {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\flags\\gd.svg",
@@ -7106,23 +7140,6 @@
       "OriginalItemSpec": "wwwroot\\images\\hero\\digital-marketing.png"
     },
     {
-      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\hero\\freelancer.png",
-      "SourceId": "SmartmolesUI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
-      "BasePath": "_content/SmartmolesUI",
-      "RelativePath": "images/hero/freelancer.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\hero\\freelancer.png"
-    },
-    {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\hero\\freelancer-mobile.png",
       "SourceId": "SmartmolesUI",
       "SourceType": "Discovered",
@@ -7138,6 +7155,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\hero\\freelancer-mobile.png"
+    },
+    {
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\hero\\freelancer.png",
+      "SourceId": "SmartmolesUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
+      "BasePath": "_content/SmartmolesUI",
+      "RelativePath": "images/hero/freelancer.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\hero\\freelancer.png"
     },
     {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\hero\\hero-creative-agenc1.jpg",
@@ -7395,23 +7429,6 @@
       "OriginalItemSpec": "wwwroot\\images\\hero\\slider-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\hero\\wave-hero.svg",
-      "SourceId": "SmartmolesUI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
-      "BasePath": "_content/SmartmolesUI",
-      "RelativePath": "images/hero/wave-hero.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\hero\\wave-hero.svg"
-    },
-    {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\hero\\wave-hero-dark.svg",
       "SourceId": "SmartmolesUI",
       "SourceType": "Discovered",
@@ -7427,6 +7444,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\hero\\wave-hero-dark.svg"
+    },
+    {
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\hero\\wave-hero.svg",
+      "SourceId": "SmartmolesUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
+      "BasePath": "_content/SmartmolesUI",
+      "RelativePath": "images/hero/wave-hero.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\hero\\wave-hero.svg"
     },
     {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\404.svg",
@@ -7701,23 +7735,6 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\chat.svg"
     },
     {
-      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\clutch-logo.png",
-      "SourceId": "SmartmolesUI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
-      "BasePath": "_content/SmartmolesUI",
-      "RelativePath": "images/icons/clutch-logo.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\icons\\clutch-logo.png"
-    },
-    {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\clutch-logo-b.png",
       "SourceId": "SmartmolesUI",
       "SourceType": "Discovered",
@@ -7735,12 +7752,12 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\clutch-logo-b.png"
     },
     {
-      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\computers.svg",
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\clutch-logo.png",
       "SourceId": "SmartmolesUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
       "BasePath": "_content/SmartmolesUI",
-      "RelativePath": "images/icons/computers.svg",
+      "RelativePath": "images/icons/clutch-logo.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7749,7 +7766,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\icons\\computers.svg"
+      "OriginalItemSpec": "wwwroot\\images\\icons\\clutch-logo.png"
     },
     {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\computers-w.svg",
@@ -7769,6 +7786,23 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\computers-w.svg"
     },
     {
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\computers.svg",
+      "SourceId": "SmartmolesUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
+      "BasePath": "_content/SmartmolesUI",
+      "RelativePath": "images/icons/computers.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\computers.svg"
+    },
+    {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\content.svg",
       "SourceId": "SmartmolesUI",
       "SourceType": "Discovered",
@@ -7784,23 +7818,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\icons\\content.svg"
-    },
-    {
-      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\customer-service.svg",
-      "SourceId": "SmartmolesUI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
-      "BasePath": "_content/SmartmolesUI",
-      "RelativePath": "images/icons/customer-service.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\icons\\customer-service.svg"
     },
     {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\customer-service-w.svg",
@@ -7820,12 +7837,12 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\customer-service-w.svg"
     },
     {
-      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\deal.svg",
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\customer-service.svg",
       "SourceId": "SmartmolesUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
       "BasePath": "_content/SmartmolesUI",
-      "RelativePath": "images/icons/deal.svg",
+      "RelativePath": "images/icons/customer-service.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7834,7 +7851,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\icons\\deal.svg"
+      "OriginalItemSpec": "wwwroot\\images\\icons\\customer-service.svg"
     },
     {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\deal-w.svg",
@@ -7854,12 +7871,12 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\deal-w.svg"
     },
     {
-      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\designer.svg",
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\deal.svg",
       "SourceId": "SmartmolesUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
       "BasePath": "_content/SmartmolesUI",
-      "RelativePath": "images/icons/designer.svg",
+      "RelativePath": "images/icons/deal.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7868,7 +7885,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\icons\\designer.svg"
+      "OriginalItemSpec": "wwwroot\\images\\icons\\deal.svg"
     },
     {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\design-icon.svg",
@@ -7886,6 +7903,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\icons\\design-icon.svg"
+    },
+    {
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\designer.svg",
+      "SourceId": "SmartmolesUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
+      "BasePath": "_content/SmartmolesUI",
+      "RelativePath": "images/icons/designer.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\designer.svg"
     },
     {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\development.svg",
@@ -8517,23 +8551,6 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\marketing.svg"
     },
     {
-      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\mobile.svg",
-      "SourceId": "SmartmolesUI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
-      "BasePath": "_content/SmartmolesUI",
-      "RelativePath": "images/icons/mobile.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\icons\\mobile.svg"
-    },
-    {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\mobile-app.svg",
       "SourceId": "SmartmolesUI",
       "SourceType": "Discovered",
@@ -8568,12 +8585,12 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\mobile-rafiki.svg"
     },
     {
-      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\money.svg",
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\mobile.svg",
       "SourceId": "SmartmolesUI",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
       "BasePath": "_content/SmartmolesUI",
-      "RelativePath": "images/icons/money.svg",
+      "RelativePath": "images/icons/mobile.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8582,7 +8599,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\icons\\money.svg"
+      "OriginalItemSpec": "wwwroot\\images\\icons\\mobile.svg"
     },
     {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\money-growth.svg",
@@ -8600,6 +8617,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\icons\\money-growth.svg"
+    },
+    {
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\money.svg",
+      "SourceId": "SmartmolesUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
+      "BasePath": "_content/SmartmolesUI",
+      "RelativePath": "images/icons/money.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\money.svg"
     },
     {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\monitor.svg",
@@ -8806,6 +8840,23 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\seo.svg"
     },
     {
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\service-icon.png",
+      "SourceId": "SmartmolesUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
+      "BasePath": "_content/SmartmolesUI",
+      "RelativePath": "images/icons/service-icon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\service-icon.png"
+    },
+    {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\service1.svg",
       "SourceId": "SmartmolesUI",
       "SourceType": "Discovered",
@@ -8906,23 +8957,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\icons\\service6.svg"
-    },
-    {
-      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\service-icon.png",
-      "SourceId": "SmartmolesUI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
-      "BasePath": "_content/SmartmolesUI",
-      "RelativePath": "images/icons/service-icon.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\icons\\service-icon.png"
     },
     {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\shopify.svg",
@@ -9197,23 +9231,6 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\stack-icon9.png"
     },
     {
-      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\startup.svg",
-      "SourceId": "SmartmolesUI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
-      "BasePath": "_content/SmartmolesUI",
-      "RelativePath": "images/icons/startup.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\icons\\startup.svg"
-    },
-    {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\startup-w.svg",
       "SourceId": "SmartmolesUI",
       "SourceType": "Discovered",
@@ -9229,6 +9246,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\icons\\startup-w.svg"
+    },
+    {
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\startup.svg",
+      "SourceId": "SmartmolesUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
+      "BasePath": "_content/SmartmolesUI",
+      "RelativePath": "images/icons/startup.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\startup.svg"
     },
     {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\strategy-cuate.svg",
@@ -9265,23 +9299,6 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\sun.svg"
     },
     {
-      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\support.png",
-      "SourceId": "SmartmolesUI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
-      "BasePath": "_content/SmartmolesUI",
-      "RelativePath": "images/icons/support.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\icons\\support.png"
-    },
-    {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\support-services.png",
       "SourceId": "SmartmolesUI",
       "SourceType": "Discovered",
@@ -9297,6 +9314,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\icons\\support-services.png"
+    },
+    {
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\support.png",
+      "SourceId": "SmartmolesUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
+      "BasePath": "_content/SmartmolesUI",
+      "RelativePath": "images/icons/support.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\support.png"
     },
     {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\system-update.png",
@@ -9350,6 +9384,23 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\taxi.svg"
     },
     {
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\team-w.svg",
+      "SourceId": "SmartmolesUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
+      "BasePath": "_content/SmartmolesUI",
+      "RelativePath": "images/icons/team-w.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\team-w.svg"
+    },
+    {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\team.png",
       "SourceId": "SmartmolesUI",
       "SourceType": "Discovered",
@@ -9399,23 +9450,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\icons\\teama.svg"
-    },
-    {
-      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\team-w.svg",
-      "SourceId": "SmartmolesUI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
-      "BasePath": "_content/SmartmolesUI",
-      "RelativePath": "images/icons/team-w.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\icons\\team-w.svg"
     },
     {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\tech.svg",
@@ -9537,23 +9571,6 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\vector.png"
     },
     {
-      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\video.svg",
-      "SourceId": "SmartmolesUI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
-      "BasePath": "_content/SmartmolesUI",
-      "RelativePath": "images/icons/video.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\icons\\video.svg"
-    },
-    {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\video-edition.png",
       "SourceId": "SmartmolesUI",
       "SourceType": "Discovered",
@@ -9586,6 +9603,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\icons\\video-tutorials.svg"
+    },
+    {
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\video.svg",
+      "SourceId": "SmartmolesUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
+      "BasePath": "_content/SmartmolesUI",
+      "RelativePath": "images/icons/video.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\video.svg"
     },
     {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\vision.png",
@@ -9656,23 +9690,6 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\website-design.svg"
     },
     {
-      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\whatsapp.svg",
-      "SourceId": "SmartmolesUI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
-      "BasePath": "_content/SmartmolesUI",
-      "RelativePath": "images/icons/whatsapp.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\icons\\whatsapp.svg"
-    },
-    {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\whatsapp-chat.png",
       "SourceId": "SmartmolesUI",
       "SourceType": "Discovered",
@@ -9688,6 +9705,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\icons\\whatsapp-chat.png"
+    },
+    {
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\whatsapp.svg",
+      "SourceId": "SmartmolesUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
+      "BasePath": "_content/SmartmolesUI",
+      "RelativePath": "images/icons/whatsapp.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\whatsapp.svg"
     },
     {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\windows.svg",
@@ -9758,23 +9792,6 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\work.png"
     },
     {
-      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\worker.svg",
-      "SourceId": "SmartmolesUI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
-      "BasePath": "_content/SmartmolesUI",
-      "RelativePath": "images/icons/worker.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\icons\\worker.svg"
-    },
-    {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\worker-w.svg",
       "SourceId": "SmartmolesUI",
       "SourceType": "Discovered",
@@ -9790,6 +9807,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\icons\\worker-w.svg"
+    },
+    {
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\worker.svg",
+      "SourceId": "SmartmolesUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
+      "BasePath": "_content/SmartmolesUI",
+      "RelativePath": "images/icons/worker.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\icons\\worker.svg"
     },
     {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\icons\\world.svg",
@@ -10812,23 +10846,6 @@
       "OriginalItemSpec": "wwwroot\\images\\service\\app-develops.png"
     },
     {
-      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\service\\branding.jpg",
-      "SourceId": "SmartmolesUI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
-      "BasePath": "_content/SmartmolesUI",
-      "RelativePath": "images/service/branding.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\service\\branding.jpg"
-    },
-    {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\service\\branding-.jpg",
       "SourceId": "SmartmolesUI",
       "SourceType": "Discovered",
@@ -10844,6 +10861,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\service\\branding-.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\service\\branding.jpg",
+      "SourceId": "SmartmolesUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
+      "BasePath": "_content/SmartmolesUI",
+      "RelativePath": "images/service/branding.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\service\\branding.jpg"
     },
     {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\service\\brochure-.jpg",
@@ -10982,40 +11016,6 @@
       "OriginalItemSpec": "wwwroot\\images\\service\\logo-design.jpg"
     },
     {
-      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\service\\mobileapp.jpg",
-      "SourceId": "SmartmolesUI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
-      "BasePath": "_content/SmartmolesUI",
-      "RelativePath": "images/service/mobileapp.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\service\\mobileapp.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\service\\mobile-app.png",
-      "SourceId": "SmartmolesUI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
-      "BasePath": "_content/SmartmolesUI",
-      "RelativePath": "images/service/mobile-app.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\service\\mobile-app.png"
-    },
-    {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\service\\mob-service-item1.png",
       "SourceId": "SmartmolesUI",
       "SourceType": "Discovered",
@@ -11082,6 +11082,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\service\\mob-service-item4.png"
+    },
+    {
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\service\\mobile-app.png",
+      "SourceId": "SmartmolesUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
+      "BasePath": "_content/SmartmolesUI",
+      "RelativePath": "images/service/mobile-app.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\service\\mobile-app.png"
+    },
+    {
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\service\\mobileapp.jpg",
+      "SourceId": "SmartmolesUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
+      "BasePath": "_content/SmartmolesUI",
+      "RelativePath": "images/service/mobileapp.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\service\\mobileapp.jpg"
     },
     {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\service\\mockup-app.jpg",
@@ -11509,23 +11543,6 @@
       "OriginalItemSpec": "wwwroot\\images\\shape\\55412695-gold-frame-beautiful-simple-golden-design-vintage-style-decorative-border-isolated-on-white-backgrou.jpg"
     },
     {
-      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\shape\\bgblur.jpg",
-      "SourceId": "SmartmolesUI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
-      "BasePath": "_content/SmartmolesUI",
-      "RelativePath": "images/shape/bgblur.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\shape\\bgblur.jpg"
-    },
-    {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\shape\\bg-circles.png",
       "SourceId": "SmartmolesUI",
       "SourceType": "Discovered",
@@ -11696,6 +11713,23 @@
       "OriginalItemSpec": "wwwroot\\images\\shape\\bg-shape.svg"
     },
     {
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\shape\\bgblur.jpg",
+      "SourceId": "SmartmolesUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
+      "BasePath": "_content/SmartmolesUI",
+      "RelativePath": "images/shape/bgblur.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\shape\\bgblur.jpg"
+    },
+    {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\shape\\blur-1.jpg",
       "SourceId": "SmartmolesUI",
       "SourceType": "Discovered",
@@ -11781,23 +11815,6 @@
       "OriginalItemSpec": "wwwroot\\images\\shape\\dot-pattern.png"
     },
     {
-      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\shape\\dots-dg.png",
-      "SourceId": "SmartmolesUI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
-      "BasePath": "_content/SmartmolesUI",
-      "RelativePath": "images/shape/dots-dg.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\shape\\dots-dg.png"
-    },
-    {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\shape\\dot-shape.png",
       "SourceId": "SmartmolesUI",
       "SourceType": "Discovered",
@@ -11813,6 +11830,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\shape\\dot-shape.png"
+    },
+    {
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\shape\\dots-dg.png",
+      "SourceId": "SmartmolesUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
+      "BasePath": "_content/SmartmolesUI",
+      "RelativePath": "images/shape/dots-dg.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\shape\\dots-dg.png"
     },
     {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\shape\\E6BD0FAC.png",
@@ -12495,6 +12529,23 @@
       "OriginalItemSpec": "wwwroot\\images\\shop\\product-preview-6.jpg"
     },
     {
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\sliderGolge.png",
+      "SourceId": "SmartmolesUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
+      "BasePath": "_content/SmartmolesUI",
+      "RelativePath": "images/sliderGolge.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\sliderGolge.png"
+    },
+    {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\images\\team\\team-1.jpg",
       "SourceId": "SmartmolesUI",
       "SourceType": "Discovered",
@@ -12886,23 +12937,6 @@
       "OriginalItemSpec": "wwwroot\\img\\bootstrap.png"
     },
     {
-      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\img\\branding.svg",
-      "SourceId": "SmartmolesUI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
-      "BasePath": "_content/SmartmolesUI",
-      "RelativePath": "img/branding.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\branding.svg"
-    },
-    {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\img\\branding-agency.jpg",
       "SourceId": "SmartmolesUI",
       "SourceType": "Discovered",
@@ -12918,6 +12952,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\branding-agency.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\img\\branding.svg",
+      "SourceId": "SmartmolesUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
+      "BasePath": "_content/SmartmolesUI",
+      "RelativePath": "img/branding.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\branding.svg"
     },
     {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\img\\business-and-startup.jpg",
@@ -13056,23 +13107,6 @@
       "OriginalItemSpec": "wwwroot\\img\\creative-agency.jpg"
     },
     {
-      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\img\\digital-agency.jpg",
-      "SourceId": "SmartmolesUI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
-      "BasePath": "_content/SmartmolesUI",
-      "RelativePath": "img/digital-agency.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\digital-agency.jpg"
-    },
-    {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\img\\digital-agency-v2.jpg",
       "SourceId": "SmartmolesUI",
       "SourceType": "Discovered",
@@ -13105,6 +13139,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\digital-agency-v3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\img\\digital-agency.jpg",
+      "SourceId": "SmartmolesUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
+      "BasePath": "_content/SmartmolesUI",
+      "RelativePath": "img/digital-agency.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\digital-agency.jpg"
     },
     {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\img\\digital-marketing.jpg",
@@ -13158,23 +13209,6 @@
       "OriginalItemSpec": "wwwroot\\img\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\img\\freelance.jpg",
-      "SourceId": "SmartmolesUI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
-      "BasePath": "_content/SmartmolesUI",
-      "RelativePath": "img/freelance.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\freelance.jpg"
-    },
-    {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\img\\freelance-v2.jpg",
       "SourceId": "SmartmolesUI",
       "SourceType": "Discovered",
@@ -13190,6 +13224,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\freelance-v2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\img\\freelance.jpg",
+      "SourceId": "SmartmolesUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
+      "BasePath": "_content/SmartmolesUI",
+      "RelativePath": "img/freelance.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\freelance.jpg"
     },
     {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\img\\google-fonts.png",
@@ -13243,23 +13294,6 @@
       "OriginalItemSpec": "wwwroot\\img\\home-demo.png"
     },
     {
-      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\img\\html.png",
-      "SourceId": "SmartmolesUI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
-      "BasePath": "_content/SmartmolesUI",
-      "RelativePath": "img/html.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\html.png"
-    },
-    {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\img\\html-code.png",
       "SourceId": "SmartmolesUI",
       "SourceType": "Discovered",
@@ -13275,6 +13309,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\html-code.png"
+    },
+    {
+      "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\img\\html.png",
+      "SourceId": "SmartmolesUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\",
+      "BasePath": "_content/SmartmolesUI",
+      "RelativePath": "img/html.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\html.png"
     },
     {
       "Identity": "C:\\Users\\yulug\\OneDrive\\Masaüstü\\SmartMolesWeb\\SmartmolesUI\\wwwroot\\img\\js.png",
